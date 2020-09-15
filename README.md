@@ -1,1 +1,1 @@
-# Thinking-in-ctr
+# EffectiveCtr
