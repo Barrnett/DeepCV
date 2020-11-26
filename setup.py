@@ -21,7 +21,7 @@ setuptools.setup(
         'Intended Audience :: Science/Research',
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.6',
-        'Programming Language :: Python :: 3.7',
+        'Programming Language :: Python :: 3.6',
         'Topic :: Scientific/Engineering',
         'Topic :: Scientific/Engineering :: Artificial Intelligence',
         'Topic :: Software Development',
@@ -30,5 +30,5 @@ setuptools.setup(
     ),
     license="Apache-2.0",
     keywords=['recommendation', 'deep learning', 'tensorflow2', 'keras'],
-    python_requires='>=3.6',
+    python_requires='>=3.5',
 )
