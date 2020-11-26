@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 """
 Author:
-    Weichen Shen,wcshen1994@163.com
+    Wenwen Zhu,wcshen1994@163.com
 Reference:
     [1] Cheng H T, Koc L, Harmsen J, et al. Wide & deep learning for recommender systems[C]//Proceedings of the 1st Workshop on Deep Learning for Recommender Systems. ACM, 2016: 7-10.(https://arxiv.org/pdf/1606.07792.pdf)
 """
@@ -11,7 +11,7 @@ import torch.nn as nn
 from .basemodel import BaseModel
 from ..inputs import combined_dnn_input
 from ..layers import DNN
-
+   
 
 class WDL(BaseModel):
     """Instantiates the Wide&Deep Learning architecture.
