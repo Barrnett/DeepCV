@@ -1,3 +1,4 @@
 sphinxcontrib-bibtex
 python=3.6
+tensorflow=2.2
 tensorflow-gpu=2.2
