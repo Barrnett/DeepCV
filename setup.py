@@ -1,34 +1,22 @@
-import setuptools
+#!/usr/bin/env python
+# -*- coding:utf-8 -*-
 
-with open("README.md", "r") as fh:
-    long_description = fh.read()
+from setuptools import setup, find_packages
 
-setuptools.setup(
-    name="deepray",
-    version="0.1.1",
-    author="Hailin Fu",
-    author_email="hailinfufu@outlook.com",
-    description="A new Modular, Scalable, Configurable, Easy-to-Use and Extend infrastructure for Deep Learning based Recommendation.",
-    long_description=long_description,
-    long_description_content_type="text/markdown",
-    url="https://github.com/fuhailin/deepray",
-    packages=setuptools.find_packages(),
-    classifiers=(
-        "License :: OSI Approved :: Apache Software License",
-        "Operating System :: OS Independent",
-        'Intended Audience :: Developers',
-        'Intended Audience :: Education',
-        'Intended Audience :: Science/Research',
-        'Programming Language :: Python :: 3',
-        'Programming Language :: Python :: 3.6',
-        'Programming Language :: Python :: 3.6',
-        'Topic :: Scientific/Engineering',
-        'Topic :: Scientific/Engineering :: Artificial Intelligence',
-        'Topic :: Software Development',
-        'Topic :: Software Development :: Libraries',
-        'Topic :: Software Development :: Libraries :: Python Modules',
-    ),
-    license="Apache-2.0",
-    keywords=['recommendation', 'deep learning', 'tensorflow2', 'keras'],
-    python_requires='>=3.5',
+setup(
+    name="deepcv",
+    version="1.0.0",
+    keywords=("pip", "pathtool", "timetool", "magetool", "mage"),
+    description="Computer vision related algorithms",
+    long_description="time and path tool",
+    license="MIT Licence",
+
+    url="https://github.com/Barrnett/DeepCV",
+    author="zhuwenwen",
+    author_email="stephenbarrnet@outlook.com",
+
+    packages=find_packages(),
+    include_package_data=True,
+    platforms="any",
+    install_requires=[]
 )
