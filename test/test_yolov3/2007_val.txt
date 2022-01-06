@@ -1,0 +1,451 @@
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000019.jpg 231,88,483,256,7 11,113,266,259,7
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000050.jpg 360,192,381,265,4 399,181,422,235,4 270,180,291,247,4 294,176,312,241,4 68,96,293,375,14 1,71,87,332,14 185,68,259,197,14 286,64,406,238,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000063.jpg 123,115,379,275,11 75,1,428,375,8
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000072.jpg 40,71,333,473,13
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000112.jpg 70,174,277,328,11 287,162,316,198,8
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000120.jpg 66,121,440,276,11
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000130.jpg 4,1,500,249,3
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000154.jpg 59,76,367,266,3
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000164.jpg 114,154,369,348,13 292,49,446,370,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000174.jpg 143,5,426,333,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000192.jpg 116,64,356,375,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000219.jpg 120,333,310,464,13
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000229.jpg 95,209,421,375,10 399,219,486,371,14 341,161,432,298,14 239,131,337,211,14 148,144,211,255,14 81,160,197,327,14 2,188,107,375,14 354,301,382,370,4
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000232.jpg 47,92,376,334,9 230,32,252,93,14 404,71,500,119,3
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000256.jpg 8,96,491,232,0
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000259.jpg 171,1,499,361,14 3,1,271,264,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000268.jpg 180,103,436,281,0 1,58,262,333,0
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000288.jpg 443,163,479,283,14 419,153,439,240,14 440,156,450,230,14 412,163,430,248,14 407,194,422,251,14 373,157,401,266,14 330,169,380,252,14 1,153,20,305,14 1,110,33,244,14 30,142,77,205,6 67,21,382,278,5
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000344.jpg 89,2,307,441,4
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000374.jpg 48,85,499,374,13 125,2,316,344,14 44,4,128,167,14 315,31,352,112,14 217,40,248,84,14 21,43,51,127,14 471,36,497,126,14 447,36,472,117,14 361,41,374,103,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000379.jpg 46,16,443,341,1
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000381.jpg 6,184,375,500,10 155,8,174,37,4
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000403.jpg 157,90,486,372,7
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000435.jpg 205,108,427,295,12 235,75,300,275,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000448.jpg 123,129,465,375,10 229,57,314,167,14 171,85,221,152,14 88,71,142,112,14 11,124,190,375,14 47,92,225,286,14 5,72,51,182,14 251,65,357,188,14 335,81,422,217,14 345,107,500,338,14 279,226,433,375,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000459.jpg 26,86,500,332,10
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000469.jpg 16,28,454,315,6
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000474.jpg 53,157,448,359,6 15,61,99,156,3
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000486.jpg 34,25,337,404,7
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000519.jpg 215,114,326,248,3 380,192,500,238,3 13,124,157,249,3
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000628.jpg 126,272,376,371,6 402,266,500,361,6 1,281,77,334,6 91,253,119,299,15
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000648.jpg 29,113,353,266,5
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000654.jpg 36,135,168,227,16 55,152,215,249,16 411,51,463,146,14 368,49,424,146,14 323,81,369,133,14 114,61,171,139,14 86,60,129,139,14 295,178,382,243,11
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000656.jpg 230,61,447,174,11
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000711.jpg 59,2,236,187,15
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000753.jpg 164,188,429,375,10 211,114,241,196,4 265,229,288,296,4 264,198,284,248,4 263,99,352,227,14 334,105,430,254,14 351,99,500,373,14 128,101,192,214,14 55,108,189,373,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000771.jpg 93,143,221,284,8
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000786.jpg 84,95,292,289,9
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000826.jpg 11,32,436,445,3
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000898.jpg 1,115,499,361,17 297,195,351,233,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000911.jpg 1,147,110,319,6 78,47,383,288,5 387,208,436,279,1 411,142,456,277,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000949.jpg 155,196,303,463,1 3,176,151,426,1 145,36,328,412,14 1,48,159,393,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000965.jpg 94,285,237,461,11 2,86,374,500,17
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000966.jpg 42,48,493,312,18
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000991.jpg 88,87,235,322,14 113,117,218,471,12
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/000999.jpg 233,317,289,405,4 2,16,280,500,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001008.jpg 220,154,300,280,13
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001010.jpg 157,6,308,146,19
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001043.jpg 61,9,482,309,7
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001052.jpg 65,101,431,281,6
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001060.jpg 411,183,500,212,6 155,197,183,234,1 157,172,187,232,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001078.jpg 2,101,245,375,7
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001104.jpg 1,4,394,334,11
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001121.jpg 54,29,294,500,3
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001137.jpg 174,117,272,333,14 242,74,347,333,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001149.jpg 148,138,403,302,17 75,85,146,153,19 1,7,142,375,15
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001176.jpg 272,82,451,340,3 196,298,252,314,3 139,252,175,315,3 33,213,81,317,3
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001182.jpg 125,149,403,294,9 100,124,218,183,9
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001186.jpg 162,231,189,283,1 154,196,192,270,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001265.jpg 8,44,313,469,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001270.jpg 31,126,448,234,0
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001316.jpg 150,61,500,374,11
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001330.jpg 297,164,334,184,6 167,164,342,310,6 140,159,172,287,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001395.jpg 35,24,499,375,7
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001421.jpg 189,1,372,438,14 116,181,374,476,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001430.jpg 1,269,250,374,10 100,154,235,286,14 211,146,303,352,14 245,154,398,374,14 316,1,418,66,19 344,83,428,214,15
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001475.jpg 49,154,500,362,13 235,79,438,354,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001485.jpg 43,105,334,300,13 109,33,251,299,14 45,183,169,333,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001497.jpg 227,1,500,80,3 1,93,135,133,3 164,129,328,163,3 40,111,173,164,3 139,138,415,199,3 62,47,132,84,3
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001548.jpg 133,145,287,328,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001559.jpg 197,185,224,215,6 146,175,183,226,6
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001608.jpg 3,1,500,375,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001636.jpg 59,123,121,216,1
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001662.jpg 11,106,482,269,6
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001680.jpg 91,104,331,500,11
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001724.jpg 35,15,219,302,12
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001758.jpg 4,108,232,500,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001777.jpg 395,46,443,198,4 5,99,497,334,10 398,114,434,219,4
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001785.jpg 62,1,500,332,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001797.jpg 1,1,499,372,17 5,4,265,375,14 176,35,346,255,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001816.jpg 1,36,369,250,7
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001821.jpg 92,125,362,248,6
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001825.jpg 1,39,403,300,7
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001842.jpg 98,133,498,215,0 1,158,164,217,0
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001861.jpg 8,190,457,363,1 66,9,484,363,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001872.jpg 153,22,355,342,16
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001896.jpg 280,59,422,371,2
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001906.jpg 103,147,393,272,7
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001907.jpg 3,76,485,295,18
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/001964.jpg 366,50,413,89,2 318,71,362,104,2
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002015.jpg 8,89,124,310,15 60,25,252,292,15 137,92,281,352,15 311,3,500,331,15 247,3,395,294,15
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002023.jpg 27,47,483,300,6
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002030.jpg 101,151,151,188,14 183,150,226,202,14 437,1,500,374,14 1,68,207,375,14 199,101,383,304,14 316,110,468,246,14 309,256,365,375,4 274,229,313,322,4 472,199,493,265,4
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002055.jpg 15,248,151,368,11 64,146,229,375,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002114.jpg 324,159,397,375,14 311,100,358,169,14 34,1,500,375,18
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002125.jpg 58,154,467,310,6
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002145.jpg 125,199,272,389,7 58,60,285,500,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002155.jpg 38,19,499,303,13
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002221.jpg 148,58,375,453,14 1,19,138,281,8 179,2,195,51,4
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002238.jpg 240,129,305,246,12 235,91,300,231,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002251.jpg 2,25,500,375,17
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002256.jpg 327,195,500,373,5 243,245,323,322,5 197,301,217,351,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002329.jpg 80,170,340,374,12 291,154,475,375,12 87,73,223,351,14 247,66,346,208,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002343.jpg 294,89,375,125,6 213,78,260,98,6 2,103,500,344,6
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002350.jpg 86,3,294,500,4
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002369.jpg 138,135,215,232,9
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002392.jpg 60,106,412,177,3
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002401.jpg 13,85,301,500,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002403.jpg 316,114,334,160,14 373,182,407,226,2 283,30,394,174,3
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002420.jpg 81,48,475,251,6
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002445.jpg 13,89,349,490,7
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002492.jpg 28,146,241,279,17 262,140,390,246,8 1,230,153,375,8
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002544.jpg 81,119,422,277,6 165,72,259,114,6 246,75,312,111,6 300,75,364,107,6 286,61,362,97,6
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002549.jpg 242,74,404,220,19
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002555.jpg 58,95,202,299,12 203,95,487,375,12 7,143,61,273,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002564.jpg 17,48,211,333,14 157,34,448,333,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002567.jpg 93,25,457,358,13
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002572.jpg 135,98,173,195,4 118,142,136,195,4 370,156,500,327,8 339,125,429,273,8 121,30,150,107,14 148,22,182,106,14 201,18,245,86,14 243,23,288,87,14 282,89,401,288,14 242,85,309,175,14 33,73,210,333,14 220,82,263,177,14 197,77,239,175,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002579.jpg 80,74,357,475,2
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002613.jpg 277,238,316,347,4 305,227,350,375,4 347,238,391,375,4 388,226,422,365,4 420,227,458,359,4 40,20,262,298,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002632.jpg 1,1,245,352,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002677.jpg 3,3,319,375,7
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002693.jpg 144,133,397,322,6 46,56,132,303,14 364,136,440,236,14 34,79,55,157,14 1,80,34,161,14 1,124,185,209,6
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002696.jpg 40,33,280,277,11
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002835.jpg 35,144,366,204,18
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002836.jpg 254,135,320,266,2 125,142,205,255,2
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002867.jpg 167,1,374,456,5 1,13,129,389,5 104,179,224,451,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002868.jpg 79,234,192,319,9 382,219,464,312,9 395,262,442,319,9
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002880.jpg 51,35,388,471,11
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002891.jpg 68,50,381,324,18
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002893.jpg 1,6,494,375,13
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002899.jpg 26,56,371,390,5 251,199,349,442,14 217,227,274,434,14 149,327,201,449,14 96,309,184,464,14 29,305,100,474,14 1,245,74,448,14 3,220,156,318,14 72,232,131,341,14 126,213,174,245,14 154,184,206,237,14 188,179,256,235,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002901.jpg 376,96,430,188,19 40,133,221,290,19
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002906.jpg 149,195,293,380,18
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002939.jpg 283,161,316,226,4 159,101,336,375,14 266,206,369,361,8 38,108,121,233,19
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002944.jpg 15,15,302,369,7
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002954.jpg 118,22,200,292,14 351,166,461,375,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/002978.jpg 435,113,465,153,9 262,112,422,262,9 2,129,232,322,9
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003023.jpg 29,76,254,500,14 2,245,117,453,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003028.jpg 1,42,499,293,0
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003047.jpg 383,80,434,189,1 277,87,366,173,1 190,80,262,161,1
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003090.jpg 79,116,301,206,18
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003110.jpg 213,127,275,266,11 121,107,188,234,11
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003184.jpg 2,74,500,375,7 147,78,430,361,7
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003216.jpg 135,74,380,285,11
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003240.jpg 184,141,374,278,6 1,412,130,500,6 49,339,111,416,1 4,1,145,31,6
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003258.jpg 200,198,500,333,17 212,130,256,169,19
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003259.jpg 467,243,500,333,4 97,53,298,298,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003271.jpg 41,78,467,326,6
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003274.jpg 148,77,298,239,11
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003284.jpg 336,186,441,227,15 61,172,233,372,14 345,303,443,375,11
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003354.jpg 93,75,256,223,9
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003407.jpg 1,100,394,287,5 202,104,395,374,14 28,160,181,375,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003412.jpg 60,131,332,500,13 131,62,332,440,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003417.jpg 20,83,433,257,18 132,222,195,280,14 1,257,61,326,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003433.jpg 18,166,181,494,1 146,16,327,395,14 240,312,340,455,8
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003435.jpg 255,17,500,334,14 55,151,266,334,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003439.jpg 263,177,420,295,9 86,89,279,295,9
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003455.jpg 1,40,452,333,0 210,105,238,135,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003554.jpg 75,126,436,250,0
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003577.jpg 93,237,128,339,4 121,230,153,333,4 171,220,198,304,4 249,115,340,220,14 344,107,445,260,14 320,105,500,375,14 117,130,199,241,14 2,127,149,286,14 1,206,420,375,10
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003620.jpg 74,1,451,257,7
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003648.jpg 52,91,500,373,17 224,82,314,335,14 160,55,334,294,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003654.jpg 1,162,26,232,14 24,152,80,230,14 82,156,106,188,14 329,114,375,275,14 12,185,204,500,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003658.jpg 25,10,496,333,1
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003679.jpg 38,53,432,302,2
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003696.jpg 193,87,368,285,12 172,110,258,283,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003711.jpg 132,278,166,329,6 162,86,469,344,5 340,173,352,209,14 352,177,367,210,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003721.jpg 15,103,444,248,6
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003722.jpg 301,256,488,294,3
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003748.jpg 262,174,415,320,2
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003750.jpg 361,163,449,362,9 125,50,353,262,9
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003835.jpg 176,278,289,332,6 7,276,45,300,6 43,197,185,313,5 1,231,34,291,5
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003847.jpg 204,151,500,375,14 1,59,209,375,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003913.jpg 210,2,500,374,14 3,1,263,375,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003979.jpg 174,150,277,243,2 300,169,442,333,2
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/003996.jpg 321,11,500,375,14 118,2,407,375,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004034.jpg 102,118,375,458,11
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004091.jpg 185,110,240,330,14 187,92,272,310,14 265,110,309,300,14 300,121,352,312,14 323,109,348,146,14 346,102,385,291,14 378,96,416,297,14 404,100,456,305,14 1,143,197,375,6
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004095.jpg 186,97,323,304,11
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004117.jpg 89,56,427,328,12 174,52,277,209,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004168.jpg 288,224,426,424,12 291,167,385,343,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004174.jpg 3,233,136,381,5
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004194.jpg 320,274,401,397,3
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004212.jpg 88,176,250,312,7 454,115,500,291,15
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004221.jpg 240,155,321,240,2
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004284.jpg 100,118,212,185,6 251,104,389,182,6
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004287.jpg 2,1,500,400,14 75,81,376,400,7
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004291.jpg 3,1,374,500,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004304.jpg 173,119,430,302,6 52,22,160,352,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004352.jpg 5,96,493,370,11
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004360.jpg 18,65,333,500,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004365.jpg 57,78,484,282,6
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004376.jpg 111,16,500,374,7
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004421.jpg 168,358,260,500,8 30,272,63,388,8 58,268,143,412,8 2,292,78,474,8 64,280,271,412,10 235,383,375,500,10
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004433.jpg 49,350,341,500,11 123,78,258,409,14 98,79,168,154,14 222,15,290,115,15
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004481.jpg 42,167,465,376,6 150,81,250,243,14 268,115,358,239,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004510.jpg 123,50,244,153,19 101,199,255,375,8 422,84,500,359,8
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004520.jpg 2,117,265,478,14 369,72,500,281,14 170,51,447,478,14 1,25,235,299,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004528.jpg 33,100,153,283,14 5,22,304,272,0
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004565.jpg 3,133,390,497,11
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004588.jpg 54,180,146,332,14 57,148,147,302,14 186,157,237,233,14 220,139,302,195,14 224,176,309,233,14 273,174,383,376,14 217,213,342,381,14 234,250,253,295,4 200,274,214,320,4
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004597.jpg 83,181,120,255,8
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004612.jpg 230,133,270,202,2
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004627.jpg 193,202,421,272,18 417,227,500,284,18
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004636.jpg 192,117,412,206,2
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004651.jpg 153,154,216,262,3
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004682.jpg 22,68,245,261,15 246,114,472,333,15
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004699.jpg 319,33,500,322,15 379,303,417,360,14 337,295,382,354,14 186,257,224,309,14 52,308,71,331,14 38,309,56,335,14 63,307,82,329,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004782.jpg 153,162,240,266,1 155,109,266,244,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004783.jpg 256,155,290,178,2
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004786.jpg 27,120,500,314,6
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004789.jpg 201,117,316,234,12 225,93,282,199,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004832.jpg 144,304,262,468,7 163,98,415,470,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004846.jpg 137,148,500,338,14 201,3,500,242,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004885.jpg 104,138,412,340,3
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004905.jpg 2,8,197,280,0
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004912.jpg 29,65,410,288,1 20,209,170,375,8 300,179,441,375,8
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004948.jpg 210,237,294,347,15 127,213,203,336,15 163,123,220,217,15 227,130,284,221,15
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004967.jpg 5,2,500,354,13
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004968.jpg 45,2,329,470,12 169,193,329,431,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004991.jpg 53,139,404,375,10 327,20,357,91,15 284,107,464,372,8 1,127,243,375,8
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/004994.jpg 186,151,377,354,14 126,175,329,354,8
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/005028.jpg 4,77,312,322,6 294,118,495,292,6
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/005036.jpg 227,127,362,334,9 164,145,223,236,9 338,102,355,134,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/005094.jpg 1,135,281,226,18 298,167,448,268,12 293,188,370,270,12
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/005135.jpg 3,146,58,302,8
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/005145.jpg 2,359,241,500,15
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/005161.jpg 329,107,376,232,14 117,122,158,221,14 54,127,91,215,14 1,124,26,208,14 178,117,215,218,14 274,183,290,231,14 289,146,451,301,12 85,156,204,277,12 177,158,267,275,12
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/005242.jpg 396,209,443,333,4 112,40,302,266,14 326,34,500,255,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/005246.jpg 84,48,493,387,2
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/005259.jpg 19,69,433,302,6
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/005285.jpg 90,118,372,342,2
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/005306.jpg 180,96,260,259,14 58,117,206,375,14 112,227,199,375,14 288,111,395,375,14 167,209,337,375,12
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/005314.jpg 6,11,499,358,13
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/005355.jpg 7,116,426,298,18
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/005389.jpg 25,42,410,208,18
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/005413.jpg 60,101,228,499,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/005418.jpg 216,97,432,312,9
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/005469.jpg 43,101,500,333,16
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/005471.jpg 303,28,455,174,8 19,28,274,332,14 274,26,497,308,14 162,238,190,305,4
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/005507.jpg 143,194,175,216,1 243,171,261,217,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/005508.jpg 89,131,275,500,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/005517.jpg 350,120,500,333,8 10,10,89,239,15 67,45,153,125,19 239,44,330,132,19 337,40,432,123,19
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/005541.jpg 167,197,187,252,4 1,1,49,298,14 130,50,391,337,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/005563.jpg 419,1,500,77,19 207,39,374,330,14 104,84,369,374,14 356,81,373,127,4
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/005636.jpg 131,184,209,382,12 254,211,318,386,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/005676.jpg 134,32,388,285,15
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/005699.jpg 155,217,346,310,3
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/005701.jpg 273,274,317,312,8 161,270,219,344,8 86,277,146,355,8 4,277,109,406,8
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/005743.jpg 73,94,220,219,11
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/005765.jpg 2,2,338,374,14 251,4,500,375,14 1,1,118,262,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/005779.jpg 134,27,500,331,11
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/005780.jpg 213,111,304,197,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/005805.jpg 172,94,274,319,2 316,234,409,318,2
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/005826.jpg 78,159,132,286,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/005919.jpg 245,176,259,232,4 288,171,302,226,4 298,186,310,218,4 261,207,281,285,4 203,209,214,239,4 199,229,214,264,4 174,268,195,328,4 231,133,317,208,14 153,146,196,231,14 108,144,159,266,14 69,163,121,288,14 3,155,107,330,14 341,129,394,236,14 422,131,462,173,14 338,132,458,308,14 355,158,500,345,14 86,208,385,354,10 309,254,329,315,4
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/005960.jpg 94,284,166,370,7
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006001.jpg 2,3,500,315,18
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006005.jpg 55,81,181,196,14 178,70,294,192,14 182,330,257,455,8
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006011.jpg 190,179,337,276,6 210,95,346,164,6 239,76,266,117,14 244,142,284,181,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006018.jpg 244,165,419,292,5 419,217,457,267,6 455,229,500,269,6 1,209,167,310,6 193,234,231,284,6
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006020.jpg 21,82,500,305,17
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006038.jpg 176,220,256,257,6 373,233,447,315,13 379,195,429,290,14 397,203,443,292,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006111.jpg 111,89,472,301,9
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006133.jpg 87,79,422,283,6 1,102,157,181,6 2,82,63,196,14 455,96,485,174,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006140.jpg 181,189,495,333,10 275,149,338,220,14 344,153,408,241,14 387,147,500,291,14 5,3,205,333,14 178,95,241,190,14 72,54,183,204,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006156.jpg 2,2,451,375,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006174.jpg 49,76,388,374,11
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006180.jpg 78,73,304,229,4 1,66,231,288,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006216.jpg 6,2,485,370,13 83,85,444,281,13
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006234.jpg 15,63,499,232,7
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006249.jpg 11,4,409,365,12
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006259.jpg 1,188,333,442,10 68,112,127,171,14 4,136,45,195,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006301.jpg 408,308,453,326,6
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006329.jpg 36,70,480,291,6
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006425.jpg 74,37,300,490,7
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006437.jpg 164,147,281,180,5
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006456.jpg 48,36,373,313,11
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006463.jpg 1,4,236,333,14 153,27,465,333,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006465.jpg 75,202,279,375,14 1,168,54,375,14 370,224,492,375,14 298,225,376,375,14 220,202,467,375,14 140,153,182,210,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006480.jpg 119,110,210,155,0
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006519.jpg 4,114,172,369,14 139,105,380,375,14 177,87,500,353,14 329,262,357,375,4 80,313,499,375,10
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006534.jpg 46,29,313,258,16
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006551.jpg 260,198,362,311,1 226,183,319,273,1 104,181,216,287,1 107,110,199,269,14 227,126,286,207,14 261,125,355,269,14 5,96,32,148,14 31,100,64,150,14 63,98,89,148,14 13,125,80,235,14 61,135,111,231,14 95,129,128,177,14 334,111,368,153,14 370,110,395,153,14 390,108,425,227,14 423,117,450,155,14 447,116,496,225,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006556.jpg 2,2,500,333,11
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006560.jpg 1,28,246,375,14 223,31,500,375,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006611.jpg 80,135,224,393,12 181,237,295,382,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006628.jpg 64,128,113,155,8 157,124,190,171,8 172,137,209,182,8 213,144,252,195,8 249,161,291,216,8 133,207,271,375,8 17,179,152,373,8 48,150,216,375,10 386,104,429,140,19
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006668.jpg 94,28,435,334,6 27,69,134,214,14 1,1,70,258,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006684.jpg 76,20,393,351,19 376,64,500,266,19
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006695.jpg 307,153,433,370,14 196,123,327,373,14 72,138,206,375,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006714.jpg 3,79,373,500,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006727.jpg 54,124,470,287,17 150,206,174,266,4 31,192,72,280,4 75,116,200,264,14 263,110,436,255,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006738.jpg 208,135,274,283,14 72,159,114,250,14 212,199,277,314,1 79,196,118,261,1
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006761.jpg 131,193,348,322,9
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006800.jpg 148,164,176,195,2 175,110,213,202,2 283,189,375,375,14 361,200,432,375,14 402,164,500,375,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006814.jpg 1,214,471,375,19
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006845.jpg 171,257,246,331,8 257,222,298,265,8 323,224,369,272,8
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006855.jpg 24,33,309,496,1 24,1,66,105,14 1,1,31,114,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006910.jpg 2,192,114,335,2 29,228,122,335,2 184,123,285,215,2 61,16,436,335,14 5,130,81,335,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006914.jpg 238,180,269,235,2
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006932.jpg 312,245,385,375,14 249,57,306,132,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006940.jpg 77,44,500,368,11
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/006972.jpg 2,121,500,333,10
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007003.jpg 188,216,327,287,5 38,256,235,375,6 196,256,313,363,6
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007020.jpg 54,176,129,430,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007029.jpg 372,129,500,323,1
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007039.jpg 121,57,323,243,19
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007054.jpg 17,13,375,500,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007064.jpg 157,261,462,375,10 367,226,465,365,8 47,177,136,273,8 146,181,276,257,17
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007113.jpg 96,163,127,238,19
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007133.jpg 4,111,375,372,6 20,135,167,192,6
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007153.jpg 228,166,317,276,9 321,114,355,189,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007166.jpg 64,130,287,393,11 2,91,333,341,11 174,55,317,186,19
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007184.jpg 60,313,192,500,14 245,337,332,500,14 304,135,334,240,14 272,264,293,292,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007197.jpg 92,57,364,334,7
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007214.jpg 30,351,113,491,11 84,132,209,499,14 183,105,336,498,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007230.jpg 265,124,362,294,16 132,78,241,221,16
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007236.jpg 181,41,325,268,5 179,165,218,264,14 465,131,482,171,14 433,123,450,154,14 151,109,164,137,14 75,126,96,167,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007243.jpg 3,43,371,372,12 63,130,266,373,14 249,178,360,374,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007274.jpg 1,108,497,264,0
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007298.jpg 3,1,278,330,5 291,135,333,275,14 217,132,268,266,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007329.jpg 23,7,500,367,7
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007336.jpg 46,189,149,472,14 226,203,325,478,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007370.jpg 35,1,340,500,4
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007385.jpg 1,26,429,333,17
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007416.jpg 223,101,369,317,7 1,2,459,349,8
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007425.jpg 1,171,374,333,17
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007435.jpg 8,320,108,500,8 10,288,332,500,10
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007449.jpg 249,205,325,235,3
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007460.jpg 121,356,314,394,3
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007467.jpg 2,124,284,208,18
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007493.jpg 235,146,489,375,14 35,4,373,375,14 1,191,22,291,4
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007535.jpg 26,59,234,489,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007546.jpg 157,143,275,178,5
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007568.jpg 35,1,466,374,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007572.jpg 2,97,315,234,10 40,100,67,181,4 19,99,38,174,4 265,46,491,333,14 4,53,235,331,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007585.jpg 131,14,466,364,11 178,322,258,482,11
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007611.jpg 312,56,492,375,14 1,110,320,375,12
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007615.jpg 297,43,428,365,2 141,160,291,375,2
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007633.jpg 1,117,236,269,5 225,126,344,255,5 340,130,500,238,5
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007649.jpg 175,2,500,375,14 2,24,179,375,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007702.jpg 381,206,460,283,19
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007735.jpg 191,68,284,295,14 4,266,366,333,10 240,209,384,316,8
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007754.jpg 377,112,477,254,19 276,130,345,241,19 263,36,316,92,19 82,92,169,229,8 131,71,246,232,8
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007768.jpg 289,36,500,375,14 5,3,385,375,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007777.jpg 2,196,370,374,10 1,105,102,242,14 178,85,291,228,14 300,130,407,288,14 370,172,500,374,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007795.jpg 7,108,153,374,14 107,118,207,305,14 295,151,359,269,14 334,152,408,279,14 404,154,485,322,14 258,242,304,310,15 229,167,284,234,8
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007814.jpg 454,243,500,322,15 360,237,395,314,15 62,234,87,306,15 192,57,274,230,14 252,130,357,375,14 303,135,364,361,14 144,134,203,353,14 82,135,174,372,14 47,124,93,195,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007820.jpg 5,19,500,257,0 277,74,431,139,0
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007834.jpg 91,48,277,448,11
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007859.jpg 1,4,469,337,16
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007865.jpg 389,192,429,306,15 53,185,97,311,15 231,108,314,262,8 295,105,351,234,8
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007869.jpg 38,76,369,332,2
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007878.jpg 66,67,294,373,7
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007884.jpg 28,12,479,406,14 13,244,450,416,1
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007889.jpg 290,64,424,375,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007901.jpg 48,15,297,500,14 1,13,75,289,14 56,80,121,238,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007921.jpg 58,257,234,351,6
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007939.jpg 101,256,333,473,9
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007971.jpg 1,1,500,333,6 179,83,323,261,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/007987.jpg 312,312,359,374,4 119,260,145,315,4 193,56,344,328,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008017.jpg 16,82,381,311,2
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008033.jpg 1,1,429,284,18 223,63,298,221,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008084.jpg 111,212,233,365,2
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008085.jpg 54,173,100,219,2
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008144.jpg 102,238,317,450,8
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008159.jpg 5,189,375,500,10
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008204.jpg 199,247,242,367,4 143,145,266,336,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008224.jpg 343,85,435,225,14 243,105,328,214,14 104,110,191,225,14 172,100,254,235,14 435,98,486,212,14 55,145,109,203,14 16,145,44,193,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008281.jpg 1,55,247,500,14 154,37,375,498,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008338.jpg 26,5,486,140,5
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008403.jpg 229,17,499,385,7
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008410.jpg 295,156,411,367,14 1,160,153,375,14 169,121,232,226,14 260,120,319,229,14 139,170,215,375,14 211,149,298,375,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008413.jpg 147,71,452,375,14 1,18,224,318,14 103,39,500,375,8 1,71,269,375,8
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008450.jpg 178,102,447,205,0
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008485.jpg 22,1,262,373,7 5,3,499,375,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008498.jpg 47,90,488,335,3
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008530.jpg 1,32,327,333,11
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008534.jpg 143,21,487,387,7
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008549.jpg 278,37,472,160,6 99,29,440,309,6 17,18,82,145,15
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008556.jpg 284,100,500,333,8
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008559.jpg 103,66,333,500,14 1,140,82,471,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008586.jpg 174,36,483,274,6
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008604.jpg 1,115,471,375,3 86,20,159,268,14 147,96,230,276,14 142,190,256,328,14 251,145,353,326,14 321,101,396,202,14 336,85,391,179,14 379,82,447,173,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008607.jpg 5,103,307,315,9 195,107,440,340,9
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008667.jpg 15,22,433,328,0
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008739.jpg 113,348,131,414,14 164,364,204,399,6 202,366,333,489,6
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008760.jpg 1,213,263,375,8 104,151,334,287,17
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008764.jpg 100,38,340,325,2
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008766.jpg 3,123,255,450,18 179,238,222,289,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008771.jpg 62,104,433,203,5 454,157,465,196,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008773.jpg 114,129,499,306,2
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008796.jpg 189,155,289,203,2
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008810.jpg 116,25,369,211,13 365,71,415,141,14 5,83,64,177,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008811.jpg 3,56,500,375,1
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008835.jpg 42,5,168,117,15 174,4,290,138,15 302,18,381,117,15 397,54,477,152,15 331,129,425,221,15 253,169,358,277,15 154,117,244,212,15
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008849.jpg 141,139,340,375,11 2,78,500,375,17
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008876.jpg 224,102,299,253,14 49,188,486,333,12
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008892.jpg 43,318,160,375,6 243,318,283,349,6 281,315,334,350,6 312,311,408,361,6 1,303,65,375,6 372,251,500,360,6 195,315,208,347,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008927.jpg 203,238,266,317,9
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008929.jpg 1,57,441,240,6
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008942.jpg 20,179,176,295,16 189,190,286,283,16 301,199,419,276,16 351,186,390,210,16 391,183,426,207,16 299,191,355,223,16 146,182,192,206,16 61,181,189,284,16
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008966.jpg 128,27,500,303,5
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/008971.jpg 83,48,462,244,0
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009072.jpg 1,2,154,284,8
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009073.jpg 127,136,232,263,5 15,140,125,204,5 89,202,150,276,6 1,202,97,337,6 378,63,500,375,14 353,200,394,323,14 298,174,358,322,14 238,206,264,278,14 213,195,241,279,14 272,192,304,269,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009108.jpg 265,1,417,352,4 119,1,264,342,4
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009112.jpg 35,57,361,298,11
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009162.jpg 220,64,461,331,8
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009184.jpg 336,1,498,180,14 1,3,446,334,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009186.jpg 62,213,156,248,6 1,216,62,246,6
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009197.jpg 104,93,467,357,11 47,1,186,348,14 199,1,362,353,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009200.jpg 311,167,361,221,19 113,136,219,226,19 240,239,335,374,8
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009213.jpg 308,204,426,287,6
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009271.jpg 201,104,387,287,16 415,124,475,181,16
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009272.jpg 14,69,487,219,0
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009343.jpg 167,9,419,327,14 18,157,242,301,8
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009377.jpg 19,97,62,200,14 57,19,417,336,18
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009398.jpg 1,4,422,333,7
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009412.jpg 31,62,101,116,5 75,85,255,375,14 317,40,500,375,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009460.jpg 3,49,377,373,14 352,273,500,375,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009469.jpg 36,112,482,322,6 1,111,130,188,6 414,71,463,156,14 205,80,236,117,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009472.jpg 160,78,496,220,0
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009488.jpg 124,89,334,404,2
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009499.jpg 3,1,306,500,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009508.jpg 175,318,228,385,18
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009526.jpg 175,314,375,500,10 215,430,323,500,8 273,206,295,263,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009531.jpg 221,219,245,252,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009573.jpg 274,136,455,295,13 155,47,432,291,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009588.jpg 1,144,401,228,18
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009600.jpg 100,174,363,333,1 142,76,335,294,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009609.jpg 213,90,400,175,2
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009623.jpg 149,52,454,232,6
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009647.jpg 367,208,389,284,4 398,202,422,278,4 328,188,348,231,4 228,122,249,163,4 41,138,283,375,14 130,123,367,266,14 213,95,404,226,14 253,11,353,188,15 23,229,224,374,8
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009670.jpg 101,109,245,262,7 334,73,441,166,7
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009671.jpg 45,195,203,261,6 253,206,444,284,6 192,202,333,255,6 109,180,128,202,14 146,180,166,200,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009676.jpg 459,146,500,246,6 259,65,351,128,14 121,63,183,114,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009686.jpg 24,177,104,298,15 100,148,177,280,15 172,184,242,266,15 243,126,320,255,15 308,149,376,248,15 369,157,419,242,15 414,169,455,213,15 438,153,494,209,15
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009691.jpg 1,187,497,333,13 124,15,294,333,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009702.jpg 336,49,418,85,0 198,61,278,105,0 210,135,291,170,0 47,83,132,120,0 81,140,160,175,0 87,220,164,254,0
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009711.jpg 37,59,428,314,6 422,150,500,221,6 315,186,354,303,14 377,206,419,304,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009735.jpg 54,365,100,429,8
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009754.jpg 178,124,421,328,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009808.jpg 18,43,291,482,12
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009822.jpg 147,170,184,195,6 113,170,150,203,6 342,184,358,221,14 108,180,132,200,14 142,177,164,228,14 196,183,217,228,14 22,226,84,300,13 98,234,155,309,13 166,249,225,341,13 244,271,320,372,13 216,208,262,266,13 79,213,117,273,13 256,230,314,344,14 177,221,220,314,14 104,204,153,284,14 36,196,83,280,14 83,191,115,256,14 372,196,500,324,6 6,176,25,225,14 26,183,48,209,14 65,175,83,197,14 222,190,254,250,14
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009860.jpg 65,25,490,355,18
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009863.jpg 199,111,395,191,6 37,164,401,333,6
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009872.jpg 39,243,136,311,8 157,245,261,306,8 277,241,367,303,8 309,306,462,375,8 114,308,275,374,8 1,307,87,375,8
+F:\zhuwenwen\DeepCV\test\test_yolov3\VOCdevkit/VOC2007/JPEGImages/009942.jpg 11,1,221,207,14 2,9,365,332,14 265,2,500,332,14
